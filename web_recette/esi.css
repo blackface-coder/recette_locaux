@@ -1,0 +1,218 @@
+.nav1
+{
+	list-style-type : none;
+	margin-top : 40px;
+	
+	
+	
+}
+body
+{
+	background-color : #f8f8f8;
+}
+.nav1 li
+{
+	display : inline;
+	font-size : 50px;
+	font-family : Calibri;
+	
+	
+}
+.logo
+{
+	margin-left : 40px;
+}
+.tete
+{
+	background-color : #29fe65;
+}
+.slogan
+{
+	display : inline;
+	font-family : Brush Script MT;
+	font-size : 25px;
+	color : red;
+}
+.acceuil
+{
+	margin-left : 200px;
+}
+.contact
+{
+	margin-left : 280px;
+}
+.lienEntete
+{
+	text-decoration : none;
+	color : white;
+}
+.region
+{
+	text-decoration : none;
+	font-size : 50px;
+	font-family : Segoe UI Black;
+	color : #00a8f3;
+	margin : 30px;
+	/* padding : 10px; */
+	
+	display : block;
+}
+.colone
+{
+	
+}
+.tableauRegion
+{
+	
+	background-color : #ffffff;
+	border : 5px solid #f8f8f8; 
+	border-radius : 25px;
+	
+}
+.tableauService
+{
+	
+	background-color : #ffffff;
+	border : 5px solid #f8f8f8; 
+	border-radius : 25px;
+	
+}
+.service
+{
+	text-decoration : none;
+	font-size : 50px;
+	font-family : Segoe UI Black;
+	color : red;
+	margin : 30px;
+	/* padding : 10px; */
+	
+	display : block;
+}
+.faso
+{
+	text-align : center;
+	font-size : 50px;
+	font-family : Jokerman;
+	color : #fb3e45;
+}
+.pied
+{
+	background-color : #29fe65;
+	text-align : center;
+}
+.lienEntete:hover
+{
+	border-top : 8px solid;
+	padding-top : 20px;
+}
+.transition
+{
+	font-size : 40px;
+	text-align : center;
+	font-family : Calibri;
+	width : 500px;
+	margin : auto;
+	padding : 20px;
+}
+.pla
+{
+	margin-left : 10%;
+}
+.metsRegion
+{
+	font-size : 50px;
+	width : 900px;
+	height : 190px;
+	text-align : center;
+	margin-left : 90px;
+	
+}
+.region1
+{
+		text-decoration : none;
+	font-size : 50px;
+	font-family : Segoe UI Black;
+	color : #00a8f3;
+	margin : 30px;
+	/* padding : 10px; */
+	
+	display : block;
+	/* position : absolute; */
+	/* clip : rect(1px 1px 1px 1px); */
+	/* clip : rect(1px, 1px ,1px ,1px); */
+	/* height : 1px; */
+	/* overflow : hidden; */
+	/* width : 1px; */
+}
+.cliquer a img
+{
+	display : none;
+}
+.cliquer a:hover img
+{
+	display : block;
+}
+
+.jus
+{
+	
+}
+#date_heure {
+	margin-left: 500px;
+}
+
+/*ul {
+	position: relative;
+	display: inline-block;
+	margin: 0;
+	padding: 0;
+}
+.tableauRegion{
+	display: inline;
+}
+	.tableauRegion:last-child{
+		display:block;
+		width: 200px;
+		height: 200px;
+		margin: 0 auto;
+		background:#ccc;
+		border: 1px solid #000;
+	}
+	.tableauRegion:hover a:after{
+		content: attr(title);
+		position: absolute;
+		width: 200px;
+		height: 200px;
+		left:50%;
+		margin-left: -100px;
+		bottom: 0;
+	}
+		.tableauRegion:hover~ tableauRegion:last-child{
+			color: transparent;
+		}*/
+	.region2
+	{
+		display: none;
+		margin-left:900xp;
+	}
+	 .contenu
+	 {
+		 display : none;
+		 margin-left : 100px;
+		 font-family : Comic Sans MS;
+		 
+		 
+	 }
+	 .clikimage:focus .contenu
+	 {
+		 display : block;
+		 
+	 }
+	 .v{
+	 display:absolute;
+	 float:none;
+	 color: green;
+	 font-size:20px;
+	 background-color: #29fe65;
+	 }
+	
